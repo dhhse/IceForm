@@ -66,7 +66,7 @@ Formulas in Icelandic saga prose
 ### Частеречная значимость
 Каждой части речи было сопоставлено число, отражающее смысловую и “градообразующую” значимость в процессе формирования фраз. Частеречная значимость нграммы рассчитывается:
 
-- <img src="https://latex.codecogs.com/gif.latex?\sumSignificance*Frequency/nwords" />
+- <img src="https://latex.codecogs.com/gif.latex?\frac{\sum{Significance*Frequency}}{nwords}" />
 
 * Significance - значимость части речи
 * Frequency - частотность части речи в нграмме
